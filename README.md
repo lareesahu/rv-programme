@@ -44,9 +44,9 @@ embedded raster, and public press archives for those Chinese TV and luxury event
 500–800 px, so nothing better exists.
 
 The exception is the robot-show material: `band-robots.jpg`, `plate-robots-a.jpg` and
-`plate-robots-b.jpg` are stills pulled at full resolution from the 4K/60 footage shot in Hangzhou on
-4 October 2026 (the source clips are 3840x2160). Those are the sharpest images on the page; swap the
-caption if the date or place needs saying differently.
+`plate-robots-b.jpg` are stills pulled at full resolution from the 3840x2160 source footage shot in
+Hangzhou on 4 October 2026. Those are the sharpest images on the page; swap the caption if the date
+or place needs saying differently.
 
 ## Editing it
 
