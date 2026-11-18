@@ -683,6 +683,8 @@ figcaption {
 .plate-f { grid-column: span 4; aspect-ratio: 1 / 1; }
 .plate-g { grid-column: span 3; aspect-ratio: 3 / 4; }
 .plate-h { grid-column: span 5; aspect-ratio: 5 / 4; }
+.plate-i { grid-column: span 6; aspect-ratio: 3 / 2; }
+.plate-j { grid-column: span 6; aspect-ratio: 3 / 2; }
 
 /* ── finale ───────────────────────────────────────────── */
 
@@ -805,7 +807,8 @@ figcaption {
   .duo { grid-template-columns: minmax(0, 1fr); }
   .now-list li { grid-template-columns: 1fr; gap: 4px; }
   .plate-grid { grid-template-columns: repeat(6, minmax(0, 1fr)); }
-  .plate-a, .plate-b, .plate-c, .plate-d, .plate-e, .plate-f, .plate-g, .plate-h {
+  .plate-a, .plate-b, .plate-c, .plate-d, .plate-e, .plate-f, .plate-g, .plate-h,
+  .plate-i, .plate-j {
     grid-column: span 6;
     aspect-ratio: 3 / 2;
   }

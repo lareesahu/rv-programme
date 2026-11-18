@@ -32,9 +32,21 @@ fonts are embedded and every image is local.
 | IV · The Room | Bvlgari, Piaget, Lincoln, Chivas, Atlantis Sanya, the 五大连池 water show, 金枝玉叶, casting |
 | V · The Maker | RRRUN!, the two books, the musicals, Live Our Dreams, My Other Brain, Vermuthology |
 | VI · The Next | Two TEDx talks, AI and robotics work, casting |
-| Plates | Eight frames from the archive |
+| Plates | Ten frames from the archive; the last two are 4K stills from the Hangzhou robot show |
 | Encore | The birthday message, signed |
 | Colophon | Says where all of it came from |
+
+## Image quality
+
+Every frame sits at the largest resolution that exists for it. The largest are 2933 px wide, lifted
+straight out of his deck; the ceiling for the older stage and brand-event pages is the deck's own
+embedded raster, and public press archives for those Chinese TV and luxury events only carry
+500–800 px, so nothing better exists.
+
+The exception is the robot-show material: `band-robots.jpg`, `plate-robots-a.jpg` and
+`plate-robots-b.jpg` are stills pulled at full resolution from the 4K/60 footage shot in Hangzhou on
+4 October 2026 (the source clips are 3840x2160). Those are the sharpest images on the page; swap the
+caption if the date or place needs saying differently.
 
 ## Editing it
 
